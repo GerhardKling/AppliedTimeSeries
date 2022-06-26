@@ -21,4 +21,8 @@ This video introduces deterministic time series models using data on food price 
 
 # V3 What is Stationarity in Time Series Analysis?
 This video introduces the concept of stationarity in time series analysis. First, I show you how to download free financial data from Yahoo Finance. Second, we explore the Bitcoin price and volume. Third, we demonstrate stationarity. The data is imported into Stata, and we plot the time series, price and volume. We discuss the implications of non-stationary time series for forecasting.
-### [YouTube Video 3 scheduled on 20/06/2022 at 10am GMT](https://youtu.be/1Ygv-4SSqQE)
+### [YouTube Video 3](https://youtu.be/1Ygv-4SSqQE)
+
+# V4 Data Generating Processes: Stata Simulation
+This video introduces Data Generating Processes using simulations in Stata. You will learn how to run a simulation in Stata (random number generator, loops, initial values, setting observations). We will explore first-order autoregressive processes AR(1) and check their behaviour for different values of the first-order autoregression coefficient. 
+### [YouTube Video 4 scheduled on 29/06/2022 at 10am GMT](https://youtu.be/mUc9MipVgYk)
