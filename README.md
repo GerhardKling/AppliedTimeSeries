@@ -25,4 +25,8 @@ This video introduces the concept of stationarity in time series analysis. First
 
 # V4 Data Generating Processes: Stata Simulation
 This video introduces Data Generating Processes using simulations in Stata. You will learn how to run a simulation in Stata (random number generator, loops, initial values, setting observations). We will explore first-order autoregressive processes AR(1) and check their behaviour for different values of the first-order autoregression coefficient. 
-### [YouTube Video 4 scheduled on 29/06/2022 at 10am GMT](https://youtu.be/mUc9MipVgYk)
+### [YouTube Video 4](https://youtu.be/mUc9MipVgYk)
+
+# V5 Unit Root Test: An Introduction using Stata
+This video explains Unit Root Tests and illustrates their use using a time series of Bitcoin prices. We discuss the visual inspection of time series. Then we discuss the Dickey-Fuller test and implement the test in Stata. Finally, first-differencing removes the unit root, leading to a stationary time series that can be analysed.
+### [YouTube Video 5 scheduled on 06/07/2022 at 10am GMT](https://youtu.be/jLB8RwA6Wm4)
