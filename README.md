@@ -29,4 +29,9 @@ This video introduces Data Generating Processes using simulations in Stata. You 
 
 # V5 Unit Root Test: An Introduction using Stata
 This video explains Unit Root Tests and illustrates their use using a time series of Bitcoin prices. We discuss the visual inspection of time series. Then we discuss the Dickey-Fuller test and implement the test in Stata. Finally, first-differencing removes the unit root, leading to a stationary time series that can be analysed.
-### [YouTube Video 5 scheduled on 06/07/2022 at 10am GMT](https://youtu.be/jLB8RwA6Wm4)
+### [YouTube Video 5](https://youtu.be/jLB8RwA6Wm4)
+
+# V6: Autoregressive Integrated Moving Average Models: An Introduction
+This video introduces autoregressive integrated moving average models – or ARIMA in short. By the end of this video, you will understand how to use the autocorrelation and partial autocorrelation functions to identify ARIMA models. Using data generating processes, we simulate AR(1) and MA(1) processes and use the autocorrelation and partial autocorrelation functions to detect the lag structure.
+### [YouTube Video 6](https://youtu.be/RaH4b0CHD7o)
+
