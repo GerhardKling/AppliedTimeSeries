@@ -1,5 +1,5 @@
 # Applied Time Series
-This repository contains material (data, code) for the Applied Time Series course on YUNIKARN. The full course is available on [www.yunikarn.com](https://www.yunikarn.com/) The course covers the following topics:
+This repository contains material (data, code) for the Applied Time Series course on YUNIKARN. The full course is available for USD 19.99 on [Udemy](https://www.udemy.com/course/applied-time-series-using-stata/learn/lecture/38500386?referralCode=BD2C5527F49135B8A71D#overview)) The course covers the following topics:
 - Unit 0: Mathematical toolkit
 - Unit 1: Time series analysis and forecasting
 - Unit 2: ARIMA and seasonality
